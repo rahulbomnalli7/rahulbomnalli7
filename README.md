@@ -10,7 +10,7 @@ I'm interested in a wide range of topics and always on the lookout for exciting 
 
 I'm currently focused on expanding my knowledge in the following areas:
 - Python
-- Web to app interfacing
+- Web to App interfacing
 
 Learning is a never-ending journey, and I'm always eager to explore new technologies and techniques.
 
